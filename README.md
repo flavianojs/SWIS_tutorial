@@ -7,3 +7,4 @@ by Dr. Flaviano José Marchiori dos Santos
 Link to the presentation: https://docs.google.com/presentation/d/1y84Wds8B_Rb6NSO1YELTuLWIQIYKkkc7gOVu3QkPluQ/edit?usp=sharing
 
 Download the PhD thesis at: https://publications.rwth-aachen.de/record/782441
+Chapter 2 is the most important for this lecture.
